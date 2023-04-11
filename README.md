@@ -1,4 +1,6 @@
 # Deepfake-generator
+The authors would like to thank Leo Hyun Park, Myung Gyo Oh and Jaeuoo Park for helpful discussion.
+
 ## Papers
 
 ### Face Swapping
@@ -166,15 +168,16 @@
   - (DAAE) Hierarchical Face Aging through Disentangled Latent Characteristics, ECCV 2020: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_6)
   - (GDFace) GDFace: Gated Deformation for Multi-view Face Image Synthesis, AAAI 2020: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6942)
 * Attribute class Accuracy
-  - CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature, ECCV 2020: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_31)
+  - CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature, *ECCV* 2020: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_31)
 * Face verification Accuracy
- - GDFace: Gated Deformation for Multi-view Face Image Synthesis, AAAI 2020: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6942)
+  - GDFace: Gated Deformation for Multi-view Face Image Synthesis, *AAAI* 2020: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6942)
 * Inception Score
- - Improved techniques for training gans, NeurIPS 2016: Paper
- - High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images, *ECCV* 2020: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_14)
+  - Improved techniques for training gans, NeurIPS 2016: Paper
+  - High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images, *ECCV* 2020: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_14)
   - (DeepFacePencil) DeepFacePencil: Creating Face Images from Freehand Sketches, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413684)
 * Peak Signal-to-Noise Ratios (PSNR)
-  - (ETGAN) Talking Face Generation with Expression-Tailored Generative Adversarial Network, ACM MM 2020: Paper
+  - (ETGAN) Talking Face Generation with Expression-Tailored Generative Adversarial Network, ACM MM 2020: [Paper]((https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)
+)
 * Average Content Distance
   - MoCoGAN: Decomposing Motion and Content for Video Generation, CVPR 2018: [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)
   - (ETGAN) Talking Face Generation with Expression-Tailored Generative Adversarial Network, ACM MM 2020: [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)
