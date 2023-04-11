@@ -1,4 +1,5 @@
 # Deepfake-generator
+## Generator
 
 ### Face Swapping
 - **[StyleSwap] StyleSwap: Style-Based Generator Empowers Robust Face Swapping, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_38)**
@@ -8,7 +9,7 @@
 - Reference-guided Face Component Editing, *IJCAI* 2020: [Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491510)
 - SimSwap: An Efficient Framework For High Fidelity Face Swapping, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413630)
 - FSGAN: Subject Agnostic Face Swapping and Reenactment, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html)
-
+---
 ### Face Reenactment
 - **[Dual-Generator] Dual-Generator Face Reenactment, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.html)**
 - FSGAN: Subject Agnostic Face Swapping and Reenactment, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html)
@@ -51,3 +52,16 @@
 - Generative Adversarial Network with Spatial Attention for Face Attribute Editing, *ECCV* 2018: [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.html)
 - ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes, *ECCV* 2018: [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Taihong_Xiao_ELEGANT_Exchanging_Latent_ECCV_2018_paper.html)
 - A Hybrid Model for Identity Obfuscation by Face Replacement, *ECCV* 2018: [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Qianru_Sun_A_Hybrid_Model_ECCV_2018_paper.html)
+
+## Evaluation
+### Face Swapping
+- ID retrieval
+-- One Shot Face Swapping on Megapixels, CVPR 2021
+- CosFace: Large Margin Cosine Loss for Deep Face Recognition, CVPR 2018: Paper
+- Pose error: Fine-Grained Head Pose Estimation Without Keypoints, CVPR 2018: Paper
+- Expression error: A Compact Embedding for Facial Expression Similarity, CVPR 2019: Paper
+- Frechét inception distance(FID)
+### Face Reenactment
+- Structural similarity (SSIM): Image Quality Assessment: From Error Visibility to Structural Similarity, IEEE TIP 2004: Paper
+### Entire Face Synthesis
+### Attribute Mapulation
