@@ -8,7 +8,7 @@
 - Reference-guided Face Component Editing, *IJCAI* 2020: [Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491510)
 - SimSwap: An Efficient Framework For High Fidelity Face Swapping, *ACM MM* 2020: [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413630)
 - FSGAN: Subject Agnostic Face Swapping and Reenactment, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html)
----
+
 ### Face Reenactment
 - **[Dual-Generator] Dual-Generator Face Reenactment, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.html)**
 - FSGAN: Subject Agnostic Face Swapping and Reenactment, *ICCV* 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html)
