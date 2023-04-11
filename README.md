@@ -1,2 +1,2 @@
 # Deepfake-generator
-Eentire Face Synthesis
+### Eentire Face Synthesis
