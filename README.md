@@ -1,7 +1,7 @@
 # Deepfake-generator
 The authors would like to thank Leo Hyun Park, Myung Gyo Oh and Jaewoo Park for helpful discussion.
 
-## Papers
+## Papers 
 
 ### Face Swapping
 * **[StyleSwap] StyleSwap: Style-Based Generator Empowers Robust Face Swapping, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_38)**
