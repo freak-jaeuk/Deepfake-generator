@@ -181,3 +181,5 @@ The authors would like to thank Leo Hyun Park, Myung Gyo Oh and Jaewoo Park for 
 * Average Content Distance
   - MoCoGAN: Decomposing Motion and Content for Video Generation, CVPR 2018: [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)
   - (ETGAN) Talking Face Generation with Expression-Tailored Generative Adversarial Network, ACM MM 2020: [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)
+
+..
