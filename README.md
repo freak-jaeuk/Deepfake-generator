@@ -56,7 +56,7 @@
 ## Evaluation
 ### Face Swapping
 - ID retrieval
--- One Shot Face Swapping on Megapixels, CVPR 2021
+-  One Shot Face Swapping on Megapixels, CVPR 2021
 - CosFace: Large Margin Cosine Loss for Deep Face Recognition, CVPR 2018: Paper
 - Pose error: Fine-Grained Head Pose Estimation Without Keypoints, CVPR 2018: Paper
 - Expression error: A Compact Embedding for Facial Expression Similarity, CVPR 2019: Paper
