@@ -1,5 +1,5 @@
 # Deepfake-generator
-The authors would like to thank Leo Hyun Park, Myung Gyo Oh and Jaeuoo Park for helpful discussion.
+The authors would like to thank Leo Hyun Park, Myung Gyo Oh and Jaewoo Park for helpful discussion.
 
 ## Papers
 
